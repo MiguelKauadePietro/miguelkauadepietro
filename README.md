@@ -7,7 +7,7 @@ Currently, I am enhancing my knowledge in Java and I am looking to improve my ca
 
 ##
 
-### Linguagens que utilizo:
+### Technical Skills:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -19,7 +19,7 @@ Currently, I am enhancing my knowledge in Java and I am looking to improve my ca
 
 ##
 
-  ### Meios de contato comigo:
+  ### Contact me:
  
 <div> 
   <a href = "mailto:miguelkauadepietro19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
