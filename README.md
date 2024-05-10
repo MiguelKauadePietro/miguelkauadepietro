@@ -1,7 +1,7 @@
-## Olá, Meu nome é Miguel Kauã de Pietro, o meu foco é no Desenvolvimento Backend
+## Hi, My name is Miguel Kauã de Pietro
 
 
-Atualmente estou aprimorando meu conhecimento na linguagem C#/.NET e procuro aprimorar minha carreira e crescer profissionalmente na área de Desenvolvimento de Software
+Currently, I am enhancing my knowledge in Java and I am looking to improve my career and grow professionally in the Software Development area.
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelKauadePietro&show_icons=true&theme=dark)
 
@@ -13,7 +13,7 @@ Atualmente estou aprimorando meu conhecimento na linguagem C#/.NET e procuro apr
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 
   
 </div>
