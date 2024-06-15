@@ -1,7 +1,7 @@
 ## Hi, My name is Miguel Kauã de Pietro
 
 
-Currently, I am enhancing my knowledge in Java and I am looking to improve my career and grow professionally in the Software Development area.
+Currently, I am studying Computer Engineering at the Federal University of São Carlos and I am looking to improve my career and grow professionally in the Software Development area.
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelKauadePietro&show_icons=true&theme=dark)
 
