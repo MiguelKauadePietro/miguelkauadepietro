@@ -12,7 +12,7 @@ Currently, I am studying Computer Engineering at the Federal University of São 
 
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-  <img align="center" width="30" height="30" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
+  <img align="center" width="35" height="35" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
   
 </div>
