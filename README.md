@@ -1,7 +1,7 @@
 ## Hi, My name is Miguel Kauã de Pietro
 
 
-Currently, I am studying Computer Science at the Federal University of São Carlos(UFSCar) and I am looking to improve my career and grow professionally in the Software Development area.
+Currently, I am studying Computer Science at the Federal University of São Carlos(UFSCar) and I am looking to improve my career and grow professionally in the Data Science area.
 
 ![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelKauadePietro&show_icons=true&theme=dark)
 
