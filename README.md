@@ -3,8 +3,6 @@
 
 Currently, I am studying Computer Science at the Federal University of São Carlos(UFSCar).
 
-![Miguel's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelKauadePietro&show_icons=true&theme=dark)
-
 ##
 
 ### Technical Skills:
