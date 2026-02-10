@@ -24,7 +24,7 @@ Atualmente, estudo na Universidade Federal de São Carlos(UFSCar).
 
 ##
 
-  ### Contact me:
+  ### Meios de contato comigo:
  
 <div> 
   <a href = "mailto:miguelkauadepietro19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
