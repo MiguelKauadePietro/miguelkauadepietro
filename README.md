@@ -9,6 +9,7 @@ Currently, I am studying Computer Science at the Federal University of São Carl
 <div style="display: inline_block"><br>
 
   <img align="center" width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/78735751-e79e-412e-a6fc-e3ebbd12f21c" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/95ddfb47-b820-4a12-b527-aeffb45cad7b" />
   <img align="center" width="35" height="35" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
   
