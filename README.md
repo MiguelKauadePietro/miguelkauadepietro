@@ -9,7 +9,7 @@ Currently, I am studying Computer Science at the Federal University of São Carl
 <div style="display: inline_block"><br>
 
   <img align="center" width="30" height="40" alt="image" src="https://github.com/user-attachments/assets/78735751-e79e-412e-a6fc-e3ebbd12f21c" />
-  <img align="center" width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/95ddfb47-b820-4a12-b527-aeffb45cad7b" />
+  <img align="center" width="35" height="35" alt="image" src="[https://github.com/user-attachments/assets/95ddfb47-b820-4a12-b527-aeffb45cad7b](https://camo.githubusercontent.com/12cbf9d47ad0acab0dcf3af8a7d9b37702fd80a42cb986c2f065a22d65ec4535/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667)" />
   <img align="center" width="35" height="35" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 
   
