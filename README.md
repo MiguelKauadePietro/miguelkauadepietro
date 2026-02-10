@@ -8,6 +8,10 @@ Currently, I am studying Computer Science at the Federal University of São Carl
 ### Technical Skills:
 <div style="display: inline_block"><br>
 
+  <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
+
+  <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+
   <img align="center" width="35" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
   
   <img align="center" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/78735751-e79e-412e-a6fc-e3ebbd12f21c" />
