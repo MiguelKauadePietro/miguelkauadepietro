@@ -12,7 +12,7 @@ Currently, I am studying Computer Science at the Federal University of São Carl
   
   <img align="center" width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/78735751-e79e-412e-a6fc-e3ebbd12f21c" />
   
-  <img align="center" width="30" height="30" alt="image" src="https://camo.githubusercontent.com/12cbf9d47ad0acab0dcf3af8a7d9b37702fd80a42cb986c2f065a22d65ec4535/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667"/>
+  <img align="center" width="40" height="40" alt="image" src="https://camo.githubusercontent.com/12cbf9d47ad0acab0dcf3af8a7d9b37702fd80a42cb986c2f065a22d65ec4535/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e406c61746573742f69636f6e732f6c61726176656c2f6c61726176656c2d6f726967696e616c2e737667"/>
 
   
 </div>
