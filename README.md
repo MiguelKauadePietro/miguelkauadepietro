@@ -1,7 +1,7 @@
-## Hi, My name is Miguel Kauã de Pietro
+## Oi, Meu nome é Miguel Kauã de Pietro.
 
 
-Currently, I am studying Computer Science at the Federal University of São Carlos(UFSCar).
+Atualmente, estudo na Universidade Federal de São Carlos(UFSCar).
 
 ##
 
